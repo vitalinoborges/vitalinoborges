@@ -1,6 +1,6 @@
 ### Olá 👋
 
-_(Um dia eu faço um profile mais bonitinho aqui.)_
+_(Um dia eu faço um profile mais bonitinho aqui)_
 
 Gosto muito de redes, linux e segurança da informação.
 
