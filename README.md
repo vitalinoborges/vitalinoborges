@@ -5,8 +5,9 @@ _(Um dia eu faço um profile mais bonitinho aqui.)_
 Gosto muito de redes, linux e segurança da informação.
 
 Blog: https://vitalino.gitbook.io
+LinkedIn: https://www.linkedin.com/in/vitalino-borges
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin,bsd,linux,aws,gcp,bash,c,gitlab,docker,kubernetes)]([https://skillicons.dev](https://www.linkedin.com/in/vitalino-borges/))
+[![My Skills](https://skillicons.dev/icons?i=bsd,linux,aws,gcp,bash,c,gitlab,docker,kubernetes)]([https://skillicons.dev](https://www.linkedin.com/in/vitalino-borges/))
 
 <!--
 **vitalinoborges/vitalinoborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
